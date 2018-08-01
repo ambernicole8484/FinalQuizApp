@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Walking Dead Fan Trivia</string>
+    <string name="name">Enter Year</string>
+    <string name="question_1"> 1.) What year did the first TWD episode air?</string>
+    <string name="andrea_button">Andrea</string>
+    <string name="jim_button">Jim</string>
+    <string name="amy_button">Amy</string>
+    <string name="lori_button">Lori</string>
+    <string name="question_2"> 2.) Who was the first person to be bit?</string>
+    <string name="knife_button">Knife</string>
+    <string name="gun_button">Gun</string>
+    <string name="machete_button">Machete</string>
+    <string name="crossbow_button">Crossbow</string>
+    <string name="question_3"> 3.) What is the weapon Daryl uses?</string>
+    <string name="question_4"> 4.) Which characters are still alive in the list below?</string>
+    <string name="maggie_checkbox">Maggie</string>
+    <string name="carl_checkbox">Carl</string>
+    <string name="abraham_checkbox">Abraham</string>
+    <string name="rick_checkbox">Rick</string>
+    <string name="hershal_checkbox">Hershal</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
